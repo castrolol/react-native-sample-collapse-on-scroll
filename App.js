@@ -1,6 +1,5 @@
 import React, { useState, useRef } from 'react';
-import { View, Dimensions, Animated, Image, ScrollView, TouchableOpacity } from 'react-native';
-import Svg, { Polygon, G } from 'react-native-svg';
+import { View, Dimensions, Animated, TouchableOpacity } from 'react-native';
 
 
 const { width, height } = Dimensions.get("screen");
